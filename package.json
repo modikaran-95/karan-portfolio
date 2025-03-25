@@ -1,7 +1,6 @@
 {
   "name": "karan-portfolio",
   "version": "0.1.0",
-  "homepage": "https://modikaran-95.github.io/karan-portfolio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
