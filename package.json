@@ -2,7 +2,7 @@
   "name": "karan-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://modikaran-95.github.io/",
+  "homepage": "https://modikaran-95.github.io/karan-portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
     "@react-three/drei": "^9.97.5",
